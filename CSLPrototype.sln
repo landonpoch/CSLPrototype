@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSLPrototype", "CSLPrototype\CSLPrototype.csproj", "{44681B8D-7744-4E1D-B80B-9BE4F4CA0690}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APJS", "APJS\APJS.csproj", "{54174D5F-8014-4E97-822D-6200031D7E25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSL", "CSL\CSL.csproj", "{051BFF11-C73E-48FB-A808-9A7F2CA11980}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{B6EE9B18-FA6D-4973-9223-8A78F207BB9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44681B8D-7744-4E1D-B80B-9BE4F4CA0690}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44681B8D-7744-4E1D-B80B-9BE4F4CA0690}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44681B8D-7744-4E1D-B80B-9BE4F4CA0690}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44681B8D-7744-4E1D-B80B-9BE4F4CA0690}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54174D5F-8014-4E97-822D-6200031D7E25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54174D5F-8014-4E97-822D-6200031D7E25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54174D5F-8014-4E97-822D-6200031D7E25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54174D5F-8014-4E97-822D-6200031D7E25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{051BFF11-C73E-48FB-A808-9A7F2CA11980}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{051BFF11-C73E-48FB-A808-9A7F2CA11980}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{051BFF11-C73E-48FB-A808-9A7F2CA11980}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{051BFF11-C73E-48FB-A808-9A7F2CA11980}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6EE9B18-FA6D-4973-9223-8A78F207BB9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6EE9B18-FA6D-4973-9223-8A78F207BB9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6EE9B18-FA6D-4973-9223-8A78F207BB9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6EE9B18-FA6D-4973-9223-8A78F207BB9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
